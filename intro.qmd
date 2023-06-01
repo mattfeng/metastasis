@@ -1,0 +1,29 @@
+# Introduction
+
+## Overview of the immune system
+
+- NK cells
+    - https://www.annualreviews.org/doi/abs/10.1146/annurev-immunol-101819-074948
+    - https://www.nature.com/articles/ni1582
+- Follicular DCs
+    - https://www.nature.com/articles/nri3689
+- Clonal expansion
+    - https://www.nature.com/articles/s41577-020-0307-4
+- T cell co-stimulation/inhibition
+    - https://www.nature.com/articles/nri3405
+- Interferon-gamma
+    - https://jlb.onlinelibrary.wiley.com/doi/10.1189/jlb.0603252
+- Dendritic cells
+    - https://www.annualreviews.org/doi/pdf/10.1146/annurev.immunol.18.1.767
+    - https://www.sciencedirect.com/science/article/pii/S095279150300181X
+    - https://www.annualreviews.org/doi/abs/10.1146/annurev-immunol-100311-102839
+
+## Biology of metastasis
+- Overview
+    - https://www.annualreviews.org/doi/10.1146/annurev-pathol-020117-044127
+- Cancer stem cells
+    - https://www.sciencedirect.com/science/article/pii/S1934590914000538
+- Plasticity
+    - https://www.nature.com/articles/s41573-019-0044-1
+- EMT
+    - https://www.nature.com/articles/s41580-020-0237-9
