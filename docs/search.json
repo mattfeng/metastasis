@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Metastasis Book",
+    "section": "",
+    "text": "Preface"
+  },
+  {
+    "objectID": "intro.html#overview-of-the-immune-system",
+    "href": "intro.html#overview-of-the-immune-system",
+    "title": "1  Introduction",
+    "section": "1.1 Overview of the immune system",
+    "text": "1.1 Overview of the immune system\n\nNK cells\n\nhttps://www.annualreviews.org/doi/abs/10.1146/annurev-immunol-101819-074948\nhttps://www.nature.com/articles/ni1582\n\nFollicular DCs\n\nhttps://www.nature.com/articles/nri3689\n\nClonal expansion\n\nhttps://www.nature.com/articles/s41577-020-0307-4\n\nT cell co-stimulation/inhibition\n\nhttps://www.nature.com/articles/nri3405\n\nInterferon-gamma\n\nhttps://jlb.onlinelibrary.wiley.com/doi/10.1189/jlb.0603252\n\nDendritic cells\n\nhttps://www.annualreviews.org/doi/pdf/10.1146/annurev.immunol.18.1.767\nhttps://www.sciencedirect.com/science/article/pii/S095279150300181X\nhttps://www.annualreviews.org/doi/abs/10.1146/annurev-immunol-100311-102839"
+  },
+  {
+    "objectID": "intro.html#biology-of-metastasis",
+    "href": "intro.html#biology-of-metastasis",
+    "title": "1  Introduction",
+    "section": "1.2 Biology of metastasis",
+    "text": "1.2 Biology of metastasis\n\nOverview\n\nhttps://www.annualreviews.org/doi/10.1146/annurev-pathol-020117-044127\n\nCancer stem cells\n\nhttps://www.sciencedirect.com/science/article/pii/S1934590914000538\n\nPlasticity\n\nhttps://www.nature.com/articles/s41573-019-0044-1\n\nEMT\n\nhttps://www.nature.com/articles/s41580-020-0237-9"
+  },
+  {
+    "objectID": "chapter9.html#development-and-function-of-secondary-lymphoid-organs-sites-for-the-initiation-of-adaptive-immune-responses",
+    "href": "chapter9.html#development-and-function-of-secondary-lymphoid-organs-sites-for-the-initiation-of-adaptive-immune-responses",
+    "title": "Chapter 9. T-cell-mediated immunity",
+    "section": "Development and function of secondary lymphoid organs – sites for the initiation of adaptive immune responses",
+    "text": "Development and function of secondary lymphoid organs – sites for the initiation of adaptive immune responses\n\n9-1. T and B lymphocytes are found in distinct locations in secondary lymphoid tissues (SLTs)\n\nSpleen\n\nonly connected to blood, not to the lymphatics!\nThe marginal sinus separates the white pulp from the red pulp\n\nThe marginal sinus is made of blood vessels that branch from the central arteriole\n\nWhite pulp\n\nB-cell follicles\n\nB-cell follicles contain networks follicular DCs (FDCs) in the area of the follicle most distance from the central arteriole\n\nPALS\n\nPALS contain bone marrow-derived (i.e. typical DC lineage) interdigitating DCs, of which there are two main subtypes\n\nCD8+\nCD8-; (CD11b:CD18)+\n\n\n\n\n\n\n\n\nJaneway’s Immunobiology (Figure 9-1)\n\n\nSchematic of a B-cell follicle in the spleen. Follicular dendritic cells (FDCs) have long processes that can capture antigen in immune complexes (complexes of antigen, antibody, and complement).\n(source: Heesters, B., Myers, R. & Carroll, M. Follicular dendritic cells: dynamic antigen libraries. Nat Rev Immunol 14, 495–504 (2014).)\n\n\nLymph nodes\n\nconnects to both lymphatics and blood\nB-cell follicles are located just under the outer capsule of the lymph node\nT-cell zones surround the follicles in paracortical areas\nlymph entering lymph nodes enter the subcapsular space (=marginal sinus)\n\nthe lymph contains antigen and antigen-bearing DCs from the tissues\n\nT and B cells enter the lymph node via special blood vessels called high endothelial venules (HEVs), found in the T-cell zones\n\n\n\n\n  \n(source: Figure 9-1 from Janeway’s Immunobiology, 9th ed.; Michiel van den Brand, Hematopathology)\n\nMucosa-associated lymphoid tissues (MALTs)\n\nPeyer’s patches are lymph node-like structures (contain both a T-cell zone and B-cell follicles)\n\nPeyer’s patches are interspersed beneath the gut epithelium\nM cells channel antigens and pathogens to the Peyer’s patches\n\n\n\n\n\n\n(source: Figure 9-1 from Janeway’s Immunobiology, 9th ed.)\n\n\n9-2. The development of SLTs is controlled by lymphoid tissue inducer cells and proteins of the tumor necrosis factor family\n\nlymphatics develop from endothelial cells that originate in blood vessels\n\nsaid endothelial cells express Prox1 (homeobox transcription factor) \\(\\to\\) endothelial cells bud from vein, migrate away, and reassociate to form a parallel network of lymphatic vessels\n\nas lymphatics form, hematopoietic cells called lymphoid tissue inducer (LTi) cells are formed in the fetal liver and travel via the bloodstream to propspective lymph nodes and Peyer’s patches\n\nLTi cells produce TNF cytokines (and others) which recruit lymphoid cells to form the lymph nodes\nlymphotoxins (LTs) \\(\\in\\) TNF-family cytokines; different lymph nodes depend on signals from different LTs\n\nLT-\\(\\alpha_3\\). cervical and mesenteric lymph nodes\nLT-\\(\\alpha_2\\):\\(\\beta\\) (often referred to as just LT-\\(\\beta\\)). all other lymph nodes; also involved in developing the Peyer’s patches\n\nLTi cells express LT-\\(\\beta\\) \\(\\to\\) LT-\\(\\beta\\) activates non-canonical NFkB pathway in stromal cells\n\n\\(\\to\\) stromal cells express adhesion molecules\n\\(\\to\\) stromal cells express chemokines such as CXCL13 (=B-lymphocyte cytokine, BLC)\n\n\n\n\n\n\nThe mesentery is a fold of membrane that attaches the intestine to the abdominal wall and holds it in place. (Source: Healthline)\n\n\n\nFigure 1: The role of TNF family members in the development of peripheral (secondary) lymphoid organs. (source: Figure 9-2 from Janeway’s Immunobiology, 9th ed.)"
+  },
+  {
+    "objectID": "chapter9.html#priming-of-naive-t-cells-by-pathogen-activated-dcs",
+    "href": "chapter9.html#priming-of-naive-t-cells-by-pathogen-activated-dcs",
+    "title": "Chapter 9. T-cell-mediated immunity",
+    "section": "Priming of naive T cells by pathogen-activated DCs",
+    "text": "Priming of naive T cells by pathogen-activated DCs"
+  },
+  {
+    "objectID": "chapter9.html#general-properties-of-effector-t-cells-and-their-cytokines",
+    "href": "chapter9.html#general-properties-of-effector-t-cells-and-their-cytokines",
+    "title": "Chapter 9. T-cell-mediated immunity",
+    "section": "General properties of effector T cells and their cytokines",
+    "text": "General properties of effector T cells and their cytokines"
+  },
+  {
+    "objectID": "chapter9.html#t-cell-mediated-cytotoxicity",
+    "href": "chapter9.html#t-cell-mediated-cytotoxicity",
+    "title": "Chapter 9. T-cell-mediated immunity",
+    "section": "T-cell mediated cytotoxicity",
+    "text": "T-cell mediated cytotoxicity"
+  }
+]
